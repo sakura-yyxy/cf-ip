@@ -1,3 +1,5 @@
+8.216.49.20:443#JP [优选高速 59.03ms | 126.89Mbps | 评分73.4]
+3.0.34.6:443#SG [优选高速 76.38ms | 83.81Mbps | 评分50.0]
 
 youxuan.cf.090227.xyz#090227
 cf.tencentapp.cn#tencentapp
