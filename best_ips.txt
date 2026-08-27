@@ -1,4 +1,4 @@
-211.49.57.134:443#KR [优选高速 85.34ms | 197.89Mbps | 评分76.9]
+38.207.174.111:443#HK [优选高速 41.74ms | 153.62Mbps | 评分93.1]
 
 youxuan.cf.090227.xyz#090227
 cf.tencentapp.cn#tencentapp
