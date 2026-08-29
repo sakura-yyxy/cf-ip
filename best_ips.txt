@@ -1,9 +1,4 @@
-8.222.193.153:443#JP [优选高速 68.68ms | 102.58Mbps | 评分82.1]
-8.134.218.35:443#DE [优选高速 40.19ms | 68.35Mbps | 评分77.7]
-54.254.226.116:443#SG [优选高速 69.03ms | 80.33Mbps | 评分68.9]
-52.77.54.144:443#SG [优选高速 76.58ms | 62.89Mbps | 评分56.6]
-65.20.88.116:443#IN [优选高速 135.8ms | 74.3Mbps | 评分54.6]
-23.133.52.10:2053#HK [优选高速 37.87ms | 19.37Mbps | 评分51.3]
+38.207.174.111:443#HK [优选高速 37.43ms | 138.89Mbps | 评分76.9]
 
 youxuan.cf.090227.xyz#090227
 cf.tencentapp.cn#tencentapp
@@ -12,4 +7,4 @@ store.ubi.com#ubi
 staticdelivery.nexusmods.com#nexusmods
 saas.sin.fan#sin
 cf.cloudflare.182682.xyz#182682
-
+cdn.091224.xyz#091224
